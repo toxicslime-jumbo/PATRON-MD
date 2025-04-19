@@ -1,5 +1,5 @@
 {
-  "autoStatusView": false,
+  "autoStatusView": true,
   "publicMode": true,
-  "botOwner": ""
+  "botOwner": "toxic"
 }
